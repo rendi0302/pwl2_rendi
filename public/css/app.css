@@ -1,0 +1,10 @@
+body
+{
+    background: pink ;
+}
+.content{
+    margin:20px 0px;
+}
+.alert{
+    color: rgb(255, 238, 6);
+}
